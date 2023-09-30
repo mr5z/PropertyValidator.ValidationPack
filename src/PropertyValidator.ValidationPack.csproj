@@ -10,7 +10,22 @@
     <Description>Contains common validation rules for PropertyValidator</Description>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <Copyright>Copyright (c) 2023 Mark Laureta</Copyright>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageProjectUrl>https://github.com/mr5z/PropertyValidator.ValidationPack</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mr5z/PropertyValidator.ValidationPack</RepositoryUrl>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\..\PropertyValidator\src\PropertyValidator.csproj" />
