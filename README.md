@@ -1,3 +1,11 @@
+## Installation
+
+You can install the ValidationPack library via NuGet:
+
+```shell
+Install-Package PropertyValidator.ValidationPack
+```
+
 ## Contains validation rules for [PropertyValidator](https://github.com/mr5z/PropertyValidator)
 This ValidationPack contains a set of common validation rules to cover popular input validation scenarios. The ValidationPack includes the following rules:
 - StringRequiredRule: Ensures that a string property is not empty or null.
