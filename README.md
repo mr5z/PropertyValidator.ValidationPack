@@ -1,3 +1,8 @@
+[![NuGet Version](https://img.shields.io/nuget/v/PropertyValidator.ValidationPack.svg)](https://www.nuget.org/packages/PropertyValidator.ValidationPack/)
+[![NuGet Pre-release](https://img.shields.io/nuget/vpre/PropertyValidator.ValidationPack.svg)](https://www.nuget.org/packages/PropertyValidator.ValidationPack/)
+[![GitHub Release](https://img.shields.io/github/release/mr5z/PropertyValidator.ValidationPack.svg?style=flat)](https://github.com/mr5z/PropertyValidator.ValidationPack/packages/385702)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/PropertyValidator.ValidationPack.svg)](https://www.nuget.org/packages/PropertyValidator.ValidationPack/)
+
 ## Installation
 
 You can install the ValidationPack library via NuGet:
