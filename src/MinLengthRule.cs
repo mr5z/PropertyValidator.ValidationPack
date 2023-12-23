@@ -4,8 +4,6 @@ namespace PropertyValidator.ValidationPack;
 
 public class MinLengthRule(int minLength) : ValidationRule<string?>
 {
-    private readonly int minLength = minLength;
-
     public override string ErrorMessage => string.Format(ErrorMessages.MinLengthRule, minLength);
 
     public override bool IsValid(string? value)
