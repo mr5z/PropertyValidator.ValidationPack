@@ -14,6 +14,9 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageProjectUrl>https://github.com/mr5z/PropertyValidator.ValidationPack</PackageProjectUrl>
     <RepositoryUrl>https://github.com/mr5z/PropertyValidator.ValidationPack</RepositoryUrl>
+    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.1</AssemblyVersion>
+    <FileVersion>1.0.1</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
